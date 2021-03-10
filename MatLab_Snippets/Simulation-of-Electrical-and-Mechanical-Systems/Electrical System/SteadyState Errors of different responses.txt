@@ -1,0 +1,24 @@
+>> ele
+>> StepError
+
+StepError =
+
+    1.0016
+
+>> SquareError
+
+SquareError =
+
+   -0.0525
+
+>> PulseError
+
+PulseError =
+
+    0.0572
+
+>> TriangularError
+
+TriangularError =
+
+   1.2272e-07

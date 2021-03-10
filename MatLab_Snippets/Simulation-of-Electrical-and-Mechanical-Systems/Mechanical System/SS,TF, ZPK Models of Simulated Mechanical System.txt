@@ -1,0 +1,55 @@
+>> simulation_of_a_mechanical_system
+>> mechss
+
+mechss =
+ 
+  a = 
+        x1   x2
+   x1    0    1
+   x2  -25   -5
+ 
+  b = 
+       u1
+   x1   0
+   x2   1
+ 
+  c = 
+       x1  x2
+   y1   1   0
+ 
+  d = 
+       u1
+   y1   0
+ 
+Continuous-time state-space model.
+
+>> tf_n
+
+tf_n =
+
+     0     0     1
+
+>> tf_d
+
+tf_d =
+
+    1.0000    5.0000   25.0000
+
+>> z
+
+z =
+
+   Empty matrix: 0-by-1
+
+>> p
+
+p =
+
+  -2.5000 + 4.3301i
+  -2.5000 - 4.3301i
+
+>> k
+
+k =
+
+     1

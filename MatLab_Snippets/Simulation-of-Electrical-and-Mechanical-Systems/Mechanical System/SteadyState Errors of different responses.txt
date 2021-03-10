@@ -1,0 +1,24 @@
+>> different_responses_of_a_mechanical_system
+>> StepError
+
+StepError =
+
+    0.0402
+
+>> SquareError
+
+SquareError =
+
+  -8.5819e-05
+
+>> PulseError
+
+PulseError =
+
+   1.4666e-04
+
+>> TriangularError
+
+TriangularError =
+
+   5.3595e-07
